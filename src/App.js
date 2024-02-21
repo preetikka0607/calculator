@@ -24,7 +24,7 @@ const App = () => {
     
  }
   return (
-    <div>
+    <div className='container-wrapper'>
         <div className='container'>
             <form>
                 <input type = "text" value={result}/>
